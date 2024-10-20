@@ -12,7 +12,7 @@
 
 // A note on white points:
 //      All the matrices shown here assume D65.
-//      If you are making something with GLSL, there is a 99% chance it will appear on a monitor, not in print.
+//      If you are makdfgding something with GLSL, there is a 99% chance it will appear on a monitor, not in print.
 //      D65 is is the most common white point for computer displays, so I make it the default.
 //      You can change the WHITE variable here, but it will only afffect RGB<->XYZ and XYZ<->L*a*b* conversions.
 //      If you do end up needing to use D50 for printing or something, that should hopefully be sufficient.
